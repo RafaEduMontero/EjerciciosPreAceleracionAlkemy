@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjerciciosPreAceleracionAlkemy", "EjerciciosPreAceleracionAlkemy\EjerciciosPreAceleracionAlkemy.csproj", "{FAF20138-29B8-474B-A044-95D74EDD5AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF20138-29B8-474B-A044-95D74EDD5AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF20138-29B8-474B-A044-95D74EDD5AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF20138-29B8-474B-A044-95D74EDD5AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF20138-29B8-474B-A044-95D74EDD5AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFDB1FAB-D907-4B87-9AF0-B20E5434E388}
+	EndGlobalSection
+EndGlobal
